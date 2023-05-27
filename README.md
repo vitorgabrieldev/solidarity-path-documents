@@ -1,6 +1,6 @@
 # solidarity-path-documents
 
-Durante essa atividade em sala de aula no ``` Colégio Marista Ir. Acácio ```, sob a orientação do professor ``` Cléo Quintiliano F. de Brito ```, desenvolvemos um projeto com o objetivo de utilizar a tecnologia para combater a fome e promover um impacto social positivo.
+Durante uma atividade em sala de aula no ``` Colégio Marista Ir. Acácio ```, sob a orientação do professor ``` Cléo Quintiliano F. de Brito ```, desenvolvemos um projeto com o objetivo de utilizar a tecnologia para combater a fome e promover um impacto social positivo.
 
 Desenvolvemos uma solução ``` inovadora e tecnológica ``` para combater a fome, por meio de um projeto que visa criar um site conectando doadores e donatários.
 
