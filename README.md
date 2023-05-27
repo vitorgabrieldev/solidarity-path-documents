@@ -21,3 +21,13 @@ Os donatários têm a opção de aceitar ou recusar a doação, levando em consi
 ``` Acreditamos que a tecnologia aliada à generosidade dos agricultores pode fazer a diferença na vida daqueles que mais precisam. ```
 
 Essa solução visa otimizar o transporte e a distribuição de alimentos, garantindo a segurança e a transparência no processo. A tecnologia desempenha um papel importante na facilitação dessa conexão eficiente entre doadores e donatários, ajudando a combater a fome e promovendo a solidariedade em nossa comunidade.
+
+Imagens
+
+https://i.pinimg.com/750x/46/9b/51/469b518469d9d37917f045854b48783a.jpg
+
+https://i.pinimg.com/750x/05/61/59/056159ba4b7240b1295b4ec291d13b58.jpg
+
+https://i.pinimg.com/750x/f7/d2/e4/f7d2e42c0882061d6d41bdf5fdacdfa2.jpg
+
+https://i.pinimg.com/750x/30/94/30/309430ead1d238085c59445ccbae7461.jpg
